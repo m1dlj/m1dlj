@@ -1,6 +1,5 @@
 - 👋 Hi, I’m midlaj
 - 👀 I’m interested in web devolopment
-- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on new website ideas
 - 📫 How to reach me m1dlj36@gmail.com
 - 
